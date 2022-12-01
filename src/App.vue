@@ -1,6 +1,6 @@
 <script>
 import Titolo from "./components/AppTitle.vue";
-import JumboTron from "./components/JumboTron.vue";
+import JumboTron from "./components/AppHero.vue";
 export default {
   components: { Titolo, JumboTron },
 };
